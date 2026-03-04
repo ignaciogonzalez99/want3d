@@ -1,0 +1,2268 @@
+{
+  "generatedAt": "2026-03-04T20:11:34.202Z",
+  "sourceFolderUrl": "local-filesystem",
+  "rootFolderId": "local-gallery",
+  "totalImages": 221,
+  "categories": [
+    {
+      "name": "A color",
+      "slug": "a-color",
+      "description": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "count": 30
+    },
+    {
+      "name": "Anime (distintos estilos)",
+      "slug": "anime-distintos-estilos",
+      "description": "Personajes y estilos anime en distintas variantes de modelado.",
+      "count": 62
+    },
+    {
+      "name": "Chibi variado",
+      "slug": "chibi-variado",
+      "description": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "count": 12
+    },
+    {
+      "name": "Lámparas",
+      "slug": "lamparas",
+      "description": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "count": 10
+    },
+    {
+      "name": "Pokeballs tematicas",
+      "slug": "pokeballs-tematicas",
+      "description": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "count": 18
+    },
+    {
+      "name": "Pokemon Mecha",
+      "slug": "pokemon-mecha",
+      "description": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "count": 47
+    },
+    {
+      "name": "Setup",
+      "slug": "setup",
+      "description": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "count": 23
+    },
+    {
+      "name": "Variado",
+      "slug": "variado",
+      "description": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "count": 19
+    }
+  ],
+  "images": [
+    {
+      "id": "a-color-1",
+      "title": "temp",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp.jpg",
+      "thumb": "/gallery/A%20color/temp.jpg"
+    },
+    {
+      "id": "a-color-2",
+      "title": "temp(1)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(1).jpg",
+      "thumb": "/gallery/A%20color/temp(1).jpg"
+    },
+    {
+      "id": "a-color-3",
+      "title": "temp(2)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(2).jpg",
+      "thumb": "/gallery/A%20color/temp(2).jpg"
+    },
+    {
+      "id": "a-color-4",
+      "title": "temp(3)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(3).jpg",
+      "thumb": "/gallery/A%20color/temp(3).jpg"
+    },
+    {
+      "id": "a-color-5",
+      "title": "temp(4)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(4).jpg",
+      "thumb": "/gallery/A%20color/temp(4).jpg"
+    },
+    {
+      "id": "a-color-6",
+      "title": "temp(5)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(5).jpg",
+      "thumb": "/gallery/A%20color/temp(5).jpg"
+    },
+    {
+      "id": "a-color-7",
+      "title": "temp(6)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(6).jpg",
+      "thumb": "/gallery/A%20color/temp(6).jpg"
+    },
+    {
+      "id": "a-color-8",
+      "title": "temp(7)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(7).jpg",
+      "thumb": "/gallery/A%20color/temp(7).jpg"
+    },
+    {
+      "id": "a-color-9",
+      "title": "temp(8)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(8).jpg",
+      "thumb": "/gallery/A%20color/temp(8).jpg"
+    },
+    {
+      "id": "a-color-10",
+      "title": "temp(9)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(9).jpg",
+      "thumb": "/gallery/A%20color/temp(9).jpg"
+    },
+    {
+      "id": "a-color-11",
+      "title": "temp(10)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(10).jpg",
+      "thumb": "/gallery/A%20color/temp(10).jpg"
+    },
+    {
+      "id": "a-color-12",
+      "title": "temp(11)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(11).jpg",
+      "thumb": "/gallery/A%20color/temp(11).jpg"
+    },
+    {
+      "id": "a-color-13",
+      "title": "temp(12)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(12).jpg",
+      "thumb": "/gallery/A%20color/temp(12).jpg"
+    },
+    {
+      "id": "a-color-14",
+      "title": "temp(13)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(13).jpg",
+      "thumb": "/gallery/A%20color/temp(13).jpg"
+    },
+    {
+      "id": "a-color-15",
+      "title": "temp(14)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(14).jpg",
+      "thumb": "/gallery/A%20color/temp(14).jpg"
+    },
+    {
+      "id": "a-color-16",
+      "title": "temp(15)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(15).jpg",
+      "thumb": "/gallery/A%20color/temp(15).jpg"
+    },
+    {
+      "id": "a-color-17",
+      "title": "temp(16)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(16).jpg",
+      "thumb": "/gallery/A%20color/temp(16).jpg"
+    },
+    {
+      "id": "a-color-18",
+      "title": "temp(17)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(17).jpg",
+      "thumb": "/gallery/A%20color/temp(17).jpg"
+    },
+    {
+      "id": "a-color-19",
+      "title": "temp(18)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(18).jpg",
+      "thumb": "/gallery/A%20color/temp(18).jpg"
+    },
+    {
+      "id": "a-color-20",
+      "title": "temp(19)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(19).jpg",
+      "thumb": "/gallery/A%20color/temp(19).jpg"
+    },
+    {
+      "id": "a-color-21",
+      "title": "temp(20)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(20).jpg",
+      "thumb": "/gallery/A%20color/temp(20).jpg"
+    },
+    {
+      "id": "a-color-22",
+      "title": "temp(21)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(21).jpg",
+      "thumb": "/gallery/A%20color/temp(21).jpg"
+    },
+    {
+      "id": "a-color-23",
+      "title": "temp(22)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(22).jpg",
+      "thumb": "/gallery/A%20color/temp(22).jpg"
+    },
+    {
+      "id": "a-color-24",
+      "title": "temp(23)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(23).jpg",
+      "thumb": "/gallery/A%20color/temp(23).jpg"
+    },
+    {
+      "id": "a-color-25",
+      "title": "temp(24)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(24).jpg",
+      "thumb": "/gallery/A%20color/temp(24).jpg"
+    },
+    {
+      "id": "a-color-26",
+      "title": "temp(25)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(25).jpg",
+      "thumb": "/gallery/A%20color/temp(25).jpg"
+    },
+    {
+      "id": "a-color-27",
+      "title": "temp(26)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(26).jpg",
+      "thumb": "/gallery/A%20color/temp(26).jpg"
+    },
+    {
+      "id": "a-color-28",
+      "title": "temp(27)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(27).jpg",
+      "thumb": "/gallery/A%20color/temp(27).jpg"
+    },
+    {
+      "id": "a-color-29",
+      "title": "temp(28)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(28).jpg",
+      "thumb": "/gallery/A%20color/temp(28).jpg"
+    },
+    {
+      "id": "a-color-30",
+      "title": "temp(29)",
+      "category": "A color",
+      "categorySlug": "a-color",
+      "folderPath": "A color",
+      "folderDescription": "Modelos impresos y pintados a mano con terminacion final en color.",
+      "src": "/gallery/A%20color/temp(29).jpg",
+      "thumb": "/gallery/A%20color/temp(29).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-31",
+      "title": "temp",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp.jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp.jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-32",
+      "title": "temp(1)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(1).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(1).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-33",
+      "title": "temp(2)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(2).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(2).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-34",
+      "title": "temp(3)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(3).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(3).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-35",
+      "title": "temp(4)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(4).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(4).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-36",
+      "title": "temp(5)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(5).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(5).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-37",
+      "title": "temp(6)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(6).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(6).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-38",
+      "title": "temp(7)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(7).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(7).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-39",
+      "title": "temp(8)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(8).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(8).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-40",
+      "title": "temp(9)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(9).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(9).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-41",
+      "title": "temp(10)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(10).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(10).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-42",
+      "title": "temp(11)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(11).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(11).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-43",
+      "title": "temp(12)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(12).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(12).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-44",
+      "title": "temp(13)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(13).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(13).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-45",
+      "title": "temp(14)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(14).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(14).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-46",
+      "title": "temp(15)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(15).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(15).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-47",
+      "title": "temp(16)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(16).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(16).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-48",
+      "title": "temp(17)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(17).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(17).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-49",
+      "title": "temp(18)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(18).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(18).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-50",
+      "title": "temp(19)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(19).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(19).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-51",
+      "title": "temp(20)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(20).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(20).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-52",
+      "title": "temp(21)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(21).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(21).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-53",
+      "title": "temp(22)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(22).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(22).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-54",
+      "title": "temp(23)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(23).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(23).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-55",
+      "title": "temp(24)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(24).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(24).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-56",
+      "title": "temp(25)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(25).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(25).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-57",
+      "title": "temp(26)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(26).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(26).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-58",
+      "title": "temp(27)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(27).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(27).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-59",
+      "title": "temp(28)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(28).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(28).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-60",
+      "title": "temp(29)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(29).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(29).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-61",
+      "title": "temp(30)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(30).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(30).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-62",
+      "title": "temp(31)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(31).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(31).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-63",
+      "title": "temp(32)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(32).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(32).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-64",
+      "title": "temp(33)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(33).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(33).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-65",
+      "title": "temp(34)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(34).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(34).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-66",
+      "title": "temp(35)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(35).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(35).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-67",
+      "title": "temp(36)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(36).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(36).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-68",
+      "title": "temp(37)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(37).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(37).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-69",
+      "title": "temp(38)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(38).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(38).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-70",
+      "title": "temp(39)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(39).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(39).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-71",
+      "title": "temp(40)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(40).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(40).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-72",
+      "title": "temp(41)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(41).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(41).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-73",
+      "title": "temp(42)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(42).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(42).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-74",
+      "title": "temp(43)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(43).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(43).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-75",
+      "title": "temp(44)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(44).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(44).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-76",
+      "title": "temp(45)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(45).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(45).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-77",
+      "title": "temp(46)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(46).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(46).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-78",
+      "title": "temp(47)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(47).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(47).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-79",
+      "title": "temp(48)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(48).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(48).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-80",
+      "title": "temp(49)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(49).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(49).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-81",
+      "title": "temp(50)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(50).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(50).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-82",
+      "title": "temp(51)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(51).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(51).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-83",
+      "title": "temp(52)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(52).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(52).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-84",
+      "title": "temp(53)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(53).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(53).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-85",
+      "title": "temp(54)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(54).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(54).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-86",
+      "title": "temp(55)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(55).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(55).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-87",
+      "title": "temp(56)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(56).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(56).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-88",
+      "title": "temp(57)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(57).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(57).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-89",
+      "title": "temp(58)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(58).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(58).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-90",
+      "title": "temp(59)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(59).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(59).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-91",
+      "title": "temp(60)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(60).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(60).jpg"
+    },
+    {
+      "id": "anime-distintos-estilos-92",
+      "title": "temp(61)",
+      "category": "Anime (distintos estilos)",
+      "categorySlug": "anime-distintos-estilos",
+      "folderPath": "Anime (distintos estilos)",
+      "folderDescription": "Personajes y estilos anime en distintas variantes de modelado.",
+      "src": "/gallery/Anime%20(distintos%20estilos)/temp(61).jpg",
+      "thumb": "/gallery/Anime%20(distintos%20estilos)/temp(61).jpg"
+    },
+    {
+      "id": "chibi-variado-93",
+      "title": "temp",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp.jpg",
+      "thumb": "/gallery/Chibi%20variado/temp.jpg"
+    },
+    {
+      "id": "chibi-variado-94",
+      "title": "temp(1)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(1).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(1).jpg"
+    },
+    {
+      "id": "chibi-variado-95",
+      "title": "temp(2)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(2).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(2).jpg"
+    },
+    {
+      "id": "chibi-variado-96",
+      "title": "temp(3)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(3).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(3).jpg"
+    },
+    {
+      "id": "chibi-variado-97",
+      "title": "temp(4)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(4).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(4).jpg"
+    },
+    {
+      "id": "chibi-variado-98",
+      "title": "temp(5)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(5).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(5).jpg"
+    },
+    {
+      "id": "chibi-variado-99",
+      "title": "temp(6)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(6).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(6).jpg"
+    },
+    {
+      "id": "chibi-variado-100",
+      "title": "temp(7)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(7).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(7).jpg"
+    },
+    {
+      "id": "chibi-variado-101",
+      "title": "temp(8)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(8).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(8).jpg"
+    },
+    {
+      "id": "chibi-variado-102",
+      "title": "temp(9)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(9).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(9).jpg"
+    },
+    {
+      "id": "chibi-variado-103",
+      "title": "temp(10)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(10).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(10).jpg"
+    },
+    {
+      "id": "chibi-variado-104",
+      "title": "temp(11)",
+      "category": "Chibi variado",
+      "categorySlug": "chibi-variado",
+      "folderPath": "Chibi variado",
+      "folderDescription": "Figuras estilo chibi con enfoque caricaturesco y proporciones compactas.",
+      "src": "/gallery/Chibi%20variado/temp(11).jpg",
+      "thumb": "/gallery/Chibi%20variado/temp(11).jpg"
+    },
+    {
+      "id": "lamparas-105",
+      "title": "temp",
+      "category": "Lámparas",
+      "categorySlug": "lamparas",
+      "folderPath": "Lámparas",
+      "folderDescription": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "src": "/gallery/L%C3%A1mparas/temp.jpg",
+      "thumb": "/gallery/L%C3%A1mparas/temp.jpg"
+    },
+    {
+      "id": "lamparas-106",
+      "title": "temp(1)",
+      "category": "Lámparas",
+      "categorySlug": "lamparas",
+      "folderPath": "Lámparas",
+      "folderDescription": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "src": "/gallery/L%C3%A1mparas/temp(1).jpg",
+      "thumb": "/gallery/L%C3%A1mparas/temp(1).jpg"
+    },
+    {
+      "id": "lamparas-107",
+      "title": "temp(2)",
+      "category": "Lámparas",
+      "categorySlug": "lamparas",
+      "folderPath": "Lámparas",
+      "folderDescription": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "src": "/gallery/L%C3%A1mparas/temp(2).jpg",
+      "thumb": "/gallery/L%C3%A1mparas/temp(2).jpg"
+    },
+    {
+      "id": "lamparas-108",
+      "title": "temp(3)",
+      "category": "Lámparas",
+      "categorySlug": "lamparas",
+      "folderPath": "Lámparas",
+      "folderDescription": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "src": "/gallery/L%C3%A1mparas/temp(3).jpg",
+      "thumb": "/gallery/L%C3%A1mparas/temp(3).jpg"
+    },
+    {
+      "id": "lamparas-109",
+      "title": "temp(4)",
+      "category": "Lámparas",
+      "categorySlug": "lamparas",
+      "folderPath": "Lámparas",
+      "folderDescription": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "src": "/gallery/L%C3%A1mparas/temp(4).jpg",
+      "thumb": "/gallery/L%C3%A1mparas/temp(4).jpg"
+    },
+    {
+      "id": "lamparas-110",
+      "title": "temp(5)",
+      "category": "Lámparas",
+      "categorySlug": "lamparas",
+      "folderPath": "Lámparas",
+      "folderDescription": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "src": "/gallery/L%C3%A1mparas/temp(5).jpg",
+      "thumb": "/gallery/L%C3%A1mparas/temp(5).jpg"
+    },
+    {
+      "id": "lamparas-111",
+      "title": "temp(6)",
+      "category": "Lámparas",
+      "categorySlug": "lamparas",
+      "folderPath": "Lámparas",
+      "folderDescription": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "src": "/gallery/L%C3%A1mparas/temp(6).jpg",
+      "thumb": "/gallery/L%C3%A1mparas/temp(6).jpg"
+    },
+    {
+      "id": "lamparas-112",
+      "title": "temp(7)",
+      "category": "Lámparas",
+      "categorySlug": "lamparas",
+      "folderPath": "Lámparas",
+      "folderDescription": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "src": "/gallery/L%C3%A1mparas/temp(7).jpg",
+      "thumb": "/gallery/L%C3%A1mparas/temp(7).jpg"
+    },
+    {
+      "id": "lamparas-113",
+      "title": "temp(8)",
+      "category": "Lámparas",
+      "categorySlug": "lamparas",
+      "folderPath": "Lámparas",
+      "folderDescription": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "src": "/gallery/L%C3%A1mparas/temp(8).jpg",
+      "thumb": "/gallery/L%C3%A1mparas/temp(8).jpg"
+    },
+    {
+      "id": "lamparas-114",
+      "title": "temp(9)",
+      "category": "Lámparas",
+      "categorySlug": "lamparas",
+      "folderPath": "Lámparas",
+      "folderDescription": "Coleccion de Lámparas con piezas y variaciones impresas en 3D.",
+      "src": "/gallery/L%C3%A1mparas/temp(9).jpg",
+      "thumb": "/gallery/L%C3%A1mparas/temp(9).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-115",
+      "title": "temp",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp.jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp.jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-116",
+      "title": "temp(1)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(1).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(1).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-117",
+      "title": "temp(2)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(2).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(2).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-118",
+      "title": "temp(3)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(3).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(3).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-119",
+      "title": "temp(4)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(4).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(4).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-120",
+      "title": "temp(5)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(5).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(5).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-121",
+      "title": "temp(6)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(6).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(6).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-122",
+      "title": "temp(7)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(7).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(7).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-123",
+      "title": "temp(8)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(8).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(8).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-124",
+      "title": "temp(9)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(9).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(9).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-125",
+      "title": "temp(10)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(10).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(10).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-126",
+      "title": "temp(11)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(11).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(11).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-127",
+      "title": "temp(12)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(12).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(12).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-128",
+      "title": "temp(13)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(13).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(13).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-129",
+      "title": "temp(14)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(14).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(14).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-130",
+      "title": "temp(15)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(15).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(15).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-131",
+      "title": "temp(16)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(16).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(16).jpg"
+    },
+    {
+      "id": "pokeballs-tematicas-132",
+      "title": "temp(17)",
+      "category": "Pokeballs tematicas",
+      "categorySlug": "pokeballs-tematicas",
+      "folderPath": "Pokeballs tematicas",
+      "folderDescription": "Pokeballs tematicas inspiradas en franquicias y estilos personalizados.",
+      "src": "/gallery/Pokeballs%20tematicas/temp(17).jpg",
+      "thumb": "/gallery/Pokeballs%20tematicas/temp(17).jpg"
+    },
+    {
+      "id": "pokemon-mecha-133",
+      "title": "temp",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp.jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp.jpg"
+    },
+    {
+      "id": "pokemon-mecha-134",
+      "title": "temp(1)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(1).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(1).jpg"
+    },
+    {
+      "id": "pokemon-mecha-135",
+      "title": "temp(2)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(2).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(2).jpg"
+    },
+    {
+      "id": "pokemon-mecha-136",
+      "title": "temp(3)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(3).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(3).jpg"
+    },
+    {
+      "id": "pokemon-mecha-137",
+      "title": "temp(4)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(4).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(4).jpg"
+    },
+    {
+      "id": "pokemon-mecha-138",
+      "title": "temp(5)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(5).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(5).jpg"
+    },
+    {
+      "id": "pokemon-mecha-139",
+      "title": "temp(6)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(6).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(6).jpg"
+    },
+    {
+      "id": "pokemon-mecha-140",
+      "title": "temp(7)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(7).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(7).jpg"
+    },
+    {
+      "id": "pokemon-mecha-141",
+      "title": "temp(8)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(8).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(8).jpg"
+    },
+    {
+      "id": "pokemon-mecha-142",
+      "title": "temp(9)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(9).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(9).jpg"
+    },
+    {
+      "id": "pokemon-mecha-143",
+      "title": "temp(10)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(10).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(10).jpg"
+    },
+    {
+      "id": "pokemon-mecha-144",
+      "title": "temp(11)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(11).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(11).jpg"
+    },
+    {
+      "id": "pokemon-mecha-145",
+      "title": "temp(12)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(12).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(12).jpg"
+    },
+    {
+      "id": "pokemon-mecha-146",
+      "title": "temp(13)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(13).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(13).jpg"
+    },
+    {
+      "id": "pokemon-mecha-147",
+      "title": "temp(14)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(14).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(14).jpg"
+    },
+    {
+      "id": "pokemon-mecha-148",
+      "title": "temp(15)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(15).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(15).jpg"
+    },
+    {
+      "id": "pokemon-mecha-149",
+      "title": "temp(16)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(16).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(16).jpg"
+    },
+    {
+      "id": "pokemon-mecha-150",
+      "title": "temp(17)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(17).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(17).jpg"
+    },
+    {
+      "id": "pokemon-mecha-151",
+      "title": "temp(18)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(18).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(18).jpg"
+    },
+    {
+      "id": "pokemon-mecha-152",
+      "title": "temp(19)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(19).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(19).jpg"
+    },
+    {
+      "id": "pokemon-mecha-153",
+      "title": "temp(20)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(20).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(20).jpg"
+    },
+    {
+      "id": "pokemon-mecha-154",
+      "title": "temp(21)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(21).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(21).jpg"
+    },
+    {
+      "id": "pokemon-mecha-155",
+      "title": "temp(22)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(22).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(22).jpg"
+    },
+    {
+      "id": "pokemon-mecha-156",
+      "title": "temp(23)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(23).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(23).jpg"
+    },
+    {
+      "id": "pokemon-mecha-157",
+      "title": "temp(24)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(24).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(24).jpg"
+    },
+    {
+      "id": "pokemon-mecha-158",
+      "title": "temp(25)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(25).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(25).jpg"
+    },
+    {
+      "id": "pokemon-mecha-159",
+      "title": "temp(26)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(26).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(26).jpg"
+    },
+    {
+      "id": "pokemon-mecha-160",
+      "title": "temp(27)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(27).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(27).jpg"
+    },
+    {
+      "id": "pokemon-mecha-161",
+      "title": "temp(28)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(28).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(28).jpg"
+    },
+    {
+      "id": "pokemon-mecha-162",
+      "title": "temp(29)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(29).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(29).jpg"
+    },
+    {
+      "id": "pokemon-mecha-163",
+      "title": "temp(30)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(30).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(30).jpg"
+    },
+    {
+      "id": "pokemon-mecha-164",
+      "title": "temp(31)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(31).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(31).jpg"
+    },
+    {
+      "id": "pokemon-mecha-165",
+      "title": "temp(32)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(32).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(32).jpg"
+    },
+    {
+      "id": "pokemon-mecha-166",
+      "title": "temp(33)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(33).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(33).jpg"
+    },
+    {
+      "id": "pokemon-mecha-167",
+      "title": "temp(34)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(34).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(34).jpg"
+    },
+    {
+      "id": "pokemon-mecha-168",
+      "title": "temp(35)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(35).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(35).jpg"
+    },
+    {
+      "id": "pokemon-mecha-169",
+      "title": "temp(36)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(36).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(36).jpg"
+    },
+    {
+      "id": "pokemon-mecha-170",
+      "title": "temp(37)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(37).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(37).jpg"
+    },
+    {
+      "id": "pokemon-mecha-171",
+      "title": "temp(38)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(38).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(38).jpg"
+    },
+    {
+      "id": "pokemon-mecha-172",
+      "title": "temp(39)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(39).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(39).jpg"
+    },
+    {
+      "id": "pokemon-mecha-173",
+      "title": "temp(40)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(40).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(40).jpg"
+    },
+    {
+      "id": "pokemon-mecha-174",
+      "title": "temp(41)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(41).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(41).jpg"
+    },
+    {
+      "id": "pokemon-mecha-175",
+      "title": "temp(42)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(42).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(42).jpg"
+    },
+    {
+      "id": "pokemon-mecha-176",
+      "title": "temp(43)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(43).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(43).jpg"
+    },
+    {
+      "id": "pokemon-mecha-177",
+      "title": "temp(44)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(44).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(44).jpg"
+    },
+    {
+      "id": "pokemon-mecha-178",
+      "title": "temp(45)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(45).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(45).jpg"
+    },
+    {
+      "id": "pokemon-mecha-179",
+      "title": "temp(46)",
+      "category": "Pokemon Mecha",
+      "categorySlug": "pokemon-mecha",
+      "folderPath": "Pokemon Mecha",
+      "folderDescription": "Pokemon reinterpretados con estetica mecha y mecanica.",
+      "src": "/gallery/Pokemon%20Mecha/temp(46).jpg",
+      "thumb": "/gallery/Pokemon%20Mecha/temp(46).jpg"
+    },
+    {
+      "id": "setup-180",
+      "title": "temp",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp.jpg",
+      "thumb": "/gallery/Setup/temp.jpg"
+    },
+    {
+      "id": "setup-181",
+      "title": "temp(1)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(1).jpg",
+      "thumb": "/gallery/Setup/temp(1).jpg"
+    },
+    {
+      "id": "setup-182",
+      "title": "temp(2)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(2).jpg",
+      "thumb": "/gallery/Setup/temp(2).jpg"
+    },
+    {
+      "id": "setup-183",
+      "title": "temp(3)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(3).jpg",
+      "thumb": "/gallery/Setup/temp(3).jpg"
+    },
+    {
+      "id": "setup-184",
+      "title": "temp(4)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(4).jpg",
+      "thumb": "/gallery/Setup/temp(4).jpg"
+    },
+    {
+      "id": "setup-185",
+      "title": "temp(5)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(5).jpg",
+      "thumb": "/gallery/Setup/temp(5).jpg"
+    },
+    {
+      "id": "setup-186",
+      "title": "temp(6)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(6).jpg",
+      "thumb": "/gallery/Setup/temp(6).jpg"
+    },
+    {
+      "id": "setup-187",
+      "title": "temp(7)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(7).jpg",
+      "thumb": "/gallery/Setup/temp(7).jpg"
+    },
+    {
+      "id": "setup-188",
+      "title": "temp(8)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(8).jpg",
+      "thumb": "/gallery/Setup/temp(8).jpg"
+    },
+    {
+      "id": "setup-189",
+      "title": "temp(9)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(9).jpg",
+      "thumb": "/gallery/Setup/temp(9).jpg"
+    },
+    {
+      "id": "setup-190",
+      "title": "temp(10)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(10).jpg",
+      "thumb": "/gallery/Setup/temp(10).jpg"
+    },
+    {
+      "id": "setup-191",
+      "title": "temp(11)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(11).jpg",
+      "thumb": "/gallery/Setup/temp(11).jpg"
+    },
+    {
+      "id": "setup-192",
+      "title": "temp(12)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(12).jpg",
+      "thumb": "/gallery/Setup/temp(12).jpg"
+    },
+    {
+      "id": "setup-193",
+      "title": "temp(13)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(13).jpg",
+      "thumb": "/gallery/Setup/temp(13).jpg"
+    },
+    {
+      "id": "setup-194",
+      "title": "temp(14)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(14).jpg",
+      "thumb": "/gallery/Setup/temp(14).jpg"
+    },
+    {
+      "id": "setup-195",
+      "title": "temp(15)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(15).jpg",
+      "thumb": "/gallery/Setup/temp(15).jpg"
+    },
+    {
+      "id": "setup-196",
+      "title": "temp(16)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(16).jpg",
+      "thumb": "/gallery/Setup/temp(16).jpg"
+    },
+    {
+      "id": "setup-197",
+      "title": "temp(17)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(17).jpg",
+      "thumb": "/gallery/Setup/temp(17).jpg"
+    },
+    {
+      "id": "setup-198",
+      "title": "temp(18)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(18).jpg",
+      "thumb": "/gallery/Setup/temp(18).jpg"
+    },
+    {
+      "id": "setup-199",
+      "title": "temp(19)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(19).jpg",
+      "thumb": "/gallery/Setup/temp(19).jpg"
+    },
+    {
+      "id": "setup-200",
+      "title": "temp(20)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(20).jpg",
+      "thumb": "/gallery/Setup/temp(20).jpg"
+    },
+    {
+      "id": "setup-201",
+      "title": "temp(21)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(21).jpg",
+      "thumb": "/gallery/Setup/temp(21).jpg"
+    },
+    {
+      "id": "setup-202",
+      "title": "temp(22)",
+      "category": "Setup",
+      "categorySlug": "setup",
+      "folderPath": "Setup",
+      "folderDescription": "Accesorios y piezas para setup de escritorio y organizacion.",
+      "src": "/gallery/Setup/temp(22).jpg",
+      "thumb": "/gallery/Setup/temp(22).jpg"
+    },
+    {
+      "id": "variado-203",
+      "title": "temp",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp.jpg",
+      "thumb": "/gallery/Variado/temp.jpg"
+    },
+    {
+      "id": "variado-204",
+      "title": "temp(1)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(1).jpg",
+      "thumb": "/gallery/Variado/temp(1).jpg"
+    },
+    {
+      "id": "variado-205",
+      "title": "temp(2)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(2).jpg",
+      "thumb": "/gallery/Variado/temp(2).jpg"
+    },
+    {
+      "id": "variado-206",
+      "title": "temp(3)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(3).jpg",
+      "thumb": "/gallery/Variado/temp(3).jpg"
+    },
+    {
+      "id": "variado-207",
+      "title": "temp(4)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(4).jpg",
+      "thumb": "/gallery/Variado/temp(4).jpg"
+    },
+    {
+      "id": "variado-208",
+      "title": "temp(5)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(5).jpg",
+      "thumb": "/gallery/Variado/temp(5).jpg"
+    },
+    {
+      "id": "variado-209",
+      "title": "temp(6)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(6).jpg",
+      "thumb": "/gallery/Variado/temp(6).jpg"
+    },
+    {
+      "id": "variado-210",
+      "title": "temp(7)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(7).jpg",
+      "thumb": "/gallery/Variado/temp(7).jpg"
+    },
+    {
+      "id": "variado-211",
+      "title": "temp(8)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(8).jpg",
+      "thumb": "/gallery/Variado/temp(8).jpg"
+    },
+    {
+      "id": "variado-212",
+      "title": "temp(9)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(9).jpg",
+      "thumb": "/gallery/Variado/temp(9).jpg"
+    },
+    {
+      "id": "variado-213",
+      "title": "temp(10)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(10).jpg",
+      "thumb": "/gallery/Variado/temp(10).jpg"
+    },
+    {
+      "id": "variado-214",
+      "title": "temp(11)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(11).jpg",
+      "thumb": "/gallery/Variado/temp(11).jpg"
+    },
+    {
+      "id": "variado-215",
+      "title": "temp(12)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(12).jpg",
+      "thumb": "/gallery/Variado/temp(12).jpg"
+    },
+    {
+      "id": "variado-216",
+      "title": "temp(13)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(13).jpg",
+      "thumb": "/gallery/Variado/temp(13).jpg"
+    },
+    {
+      "id": "variado-217",
+      "title": "temp(14)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(14).jpg",
+      "thumb": "/gallery/Variado/temp(14).jpg"
+    },
+    {
+      "id": "variado-218",
+      "title": "temp(15)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(15).jpg",
+      "thumb": "/gallery/Variado/temp(15).jpg"
+    },
+    {
+      "id": "variado-219",
+      "title": "temp(16)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(16).jpg",
+      "thumb": "/gallery/Variado/temp(16).jpg"
+    },
+    {
+      "id": "variado-220",
+      "title": "temp(17)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(17).jpg",
+      "thumb": "/gallery/Variado/temp(17).jpg"
+    },
+    {
+      "id": "variado-221",
+      "title": "temp(18)",
+      "category": "Variado",
+      "categorySlug": "variado",
+      "folderPath": "Variado",
+      "folderDescription": "Coleccion mixta con piezas de distintas categorias y acabados.",
+      "src": "/gallery/Variado/temp(18).jpg",
+      "thumb": "/gallery/Variado/temp(18).jpg"
+    }
+  ]
+}
