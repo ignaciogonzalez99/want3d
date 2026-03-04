@@ -2,6 +2,26 @@ const IMAGE_TIMEOUT_MS = 12000;
 
 const imageAvailability = new Map();
 
+function withBasePath(pathname = "") {
+  const base = import.meta.env.BASE_URL || "/";
+  const normalizedBase = base.endsWith("/") ? base : `${base}/`;
+  const normalizedPath = String(pathname).replace(/^\/+/, "");
+  return `${normalizedBase}${normalizedPath}`;
+}
+
+function resolveAssetPath(value = "") {
+  const raw = String(value).trim();
+  if (!raw) {
+    return "";
+  }
+
+  if (/^(https?:)?\/\//i.test(raw) || raw.startsWith("data:")) {
+    return raw;
+  }
+
+  return withBasePath(raw);
+}
+
 function stripFileExtension(value = "") {
   return String(value).replace(/\.[a-z0-9]{2,5}$/i, "");
 }
@@ -46,7 +66,7 @@ function preloadImage(url, timeoutMs = IMAGE_TIMEOUT_MS) {
 }
 
 export async function loadLocalGalleryManifest({ signal } = {}) {
-  const response = await fetch("/gallery/manifest.json", {
+  const response = await fetch(withBasePath("gallery/manifest.json"), {
     signal,
     cache: "no-store"
   });
@@ -70,8 +90,8 @@ export async function loadLocalGalleryManifest({ signal } = {}) {
     images: images.map((image, index) => ({
       id: image.id ?? `local-${index + 1}`,
       title: stripFileExtension(image.title ?? `Imagen ${index + 1}`),
-      src: image.src,
-      thumb: image.thumb ?? image.src,
+      src: resolveAssetPath(image.src),
+      thumb: resolveAssetPath(image.thumb ?? image.src),
       folderPath: image.folderPath ?? image.category ?? "Coleccion principal",
       folderDescription:
         image.folderDescription ??

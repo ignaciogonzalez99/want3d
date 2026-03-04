@@ -66,7 +66,7 @@ function fixMojibake(value) {
 
 function toUrlPath(...segments) {
   const encoded = segments.map((segment) => encodeURIComponent(segment));
-  return `/${encoded.join("/")}`;
+  return encoded.join("/");
 }
 
 function isImageFile(fileName) {
@@ -135,7 +135,7 @@ async function run() {
   const manifest = {
     generatedAt: new Date().toISOString(),
     source: "local-filesystem",
-    rootPath: "/gallery",
+    rootPath: "gallery",
     totalImages: images.length,
     categories,
     images
