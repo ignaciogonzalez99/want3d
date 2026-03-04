@@ -7,8 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "sync:drive": "node scripts/sync-drive-gallery.mjs",
-    "manifest:local": "node scripts/generate-local-manifest.mjs"
+    "manifest:local": "node scripts/generate-local-manifest.mjs",
+    "predev": "npm run manifest:local",
+    "prebuild": "npm run manifest:local"
   },
   "dependencies": {
     "framer-motion": "^11.18.2",

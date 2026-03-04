@@ -53,7 +53,7 @@ export async function loadLocalGalleryManifest({ signal } = {}) {
 
   if (!response.ok) {
     throw new Error(
-      `No se pudo leer el manifest local (HTTP ${response.status}). Ejecuta "npm run sync:drive" y verifica permisos de la carpeta de Drive.`
+      `No se pudo leer el manifest local (HTTP ${response.status}). Ejecuta "npm run manifest:local" para regenerarlo desde public/gallery.`
     );
   }
 

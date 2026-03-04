@@ -134,8 +134,8 @@ async function run() {
 
   const manifest = {
     generatedAt: new Date().toISOString(),
-    sourceFolderUrl: "local-filesystem",
-    rootFolderId: "local-gallery",
+    source: "local-filesystem",
+    rootPath: "/gallery",
     totalImages: images.length,
     categories,
     images
