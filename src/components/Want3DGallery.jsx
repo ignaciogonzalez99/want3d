@@ -1,10 +1,13 @@
 import { AnimatePresence, motion } from "framer-motion";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { loadLocalGalleryManifest, preloadLocalImages } from "../lib/localGallery";
 
 const INITIAL_PRELOAD_COUNT = 24;
 const SWIPE_THRESHOLD = 12000;
+const WHATSAPP_URL =
+  "https://api.whatsapp.com/send?phone=59898778883&text=Hola,%20vengo%20desde%20want3D.%20Queria%20pedirte%20info%20de%20un%20producto.";
+const INSTAGRAM_URL = "https://www.instagram.com/want3d.uy?igsh=dWpzd2RiM3h4Zzh3";
 
 const swipePower = (offset, velocity) => Math.abs(offset) * velocity;
 const wrapIndex = (value, length) => ((value % length) + length) % length;
@@ -84,7 +87,6 @@ function BurgerIcon() {
 }
 
 export default function Want3DGallery() {
-  const featuredSectionRef = useRef(null);
   const navigate = useNavigate();
   const { categorySlug } = useParams();
 
@@ -181,13 +183,6 @@ export default function Want3DGallery() {
     },
     [closeModal, navigate, selectedCategorySlug]
   );
-
-  const scrollToSection = useCallback((targetRef) => {
-    targetRef.current?.scrollIntoView({
-      behavior: "smooth",
-      block: "start"
-    });
-  }, []);
 
   const scrollToTop = useCallback(() => {
     window.scrollTo({
@@ -382,7 +377,6 @@ export default function Want3DGallery() {
 
         {featuredImage ? (
           <section
-            ref={featuredSectionRef}
             id="featured-section"
             className="scroll-mt-6 rounded-[1.7rem] border border-white/10 bg-[var(--surface)] p-3 shadow-[0_30px_90px_rgba(0,0,0,0.38)] backdrop-blur-xl sm:rounded-[2rem] sm:p-6"
           >
@@ -532,25 +526,34 @@ export default function Want3DGallery() {
 
       {!isModalOpen ? (
         <nav className="fixed inset-x-0 bottom-0 z-[60] border-t border-white/10 bg-[#070c14]/90 px-4 pb-[max(0.85rem,env(safe-area-inset-bottom))] pt-3 backdrop-blur-xl sm:hidden">
-          <div className="mx-auto grid max-w-md grid-cols-3 gap-2">
-            <button
-              type="button"
-              onClick={() => scrollToSection(featuredSectionRef)}
-              className="rounded-2xl border border-white/10 bg-white/[0.03] px-3 py-3 text-[11px] uppercase tracking-[0.18em] text-white/80 active:scale-[0.98]"
+          <div className="mx-auto grid max-w-md grid-cols-4 gap-2">
+            <a
+              href={WHATSAPP_URL}
+              target="_blank"
+              rel="noreferrer"
+              className="rounded-2xl border border-emerald-300/35 bg-emerald-400/12 px-2 py-3 text-center text-[10px] uppercase tracking-[0.16em] text-emerald-100 active:scale-[0.98]"
             >
-              Featured
-            </button>
+              WhatsApp
+            </a>
+            <a
+              href={INSTAGRAM_URL}
+              target="_blank"
+              rel="noreferrer"
+              className="rounded-2xl border border-violet-300/35 bg-violet-400/12 px-2 py-3 text-center text-[10px] uppercase tracking-[0.16em] text-violet-100 active:scale-[0.98]"
+            >
+              Instagram
+            </a>
             <button
               type="button"
               onClick={() => setIsCategoryMenuOpen(true)}
-              className="rounded-2xl border border-white/10 bg-white/[0.03] px-3 py-3 text-[11px] uppercase tracking-[0.18em] text-white/80 active:scale-[0.98]"
+              className="rounded-2xl border border-white/10 bg-white/[0.03] px-2 py-3 text-[10px] uppercase tracking-[0.16em] text-white/80 active:scale-[0.98]"
             >
               Menu
             </button>
             <button
               type="button"
               onClick={scrollToTop}
-              className="rounded-2xl border border-cyan-200/30 bg-cyan-400/10 px-3 py-3 text-[11px] uppercase tracking-[0.18em] text-cyan-100 active:scale-[0.98]"
+              className="rounded-2xl border border-cyan-200/30 bg-cyan-400/10 px-2 py-3 text-[10px] uppercase tracking-[0.16em] text-cyan-100 active:scale-[0.98]"
             >
               Top
             </button>
