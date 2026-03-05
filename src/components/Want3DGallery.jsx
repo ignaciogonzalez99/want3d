@@ -378,7 +378,7 @@ export default function Want3DGallery() {
         {featuredImage ? (
           <section
             id="featured-section"
-            className="scroll-mt-6 rounded-[1.7rem] border border-white/10 bg-[var(--surface)] p-3 shadow-[0_30px_90px_rgba(0,0,0,0.38)] backdrop-blur-xl sm:rounded-[2rem] sm:p-6"
+            className="scroll-mt-6 rounded-[1.7rem] border border-white/10 bg-[var(--surface)] p-3 shadow-[0_30px_90px_rgba(0,0,0,0.38)] backdrop-blur-xl sm:rounded-[2rem] sm:p-6 lg:relative lg:left-1/2 lg:w-[calc(100vw-4rem)] lg:-translate-x-1/2 lg:rounded-[2.2rem] lg:p-7"
           >
             <div className="mb-4 flex flex-col gap-3 sm:mb-6 sm:flex-row sm:items-center sm:justify-between">
               <div className="max-w-3xl">
@@ -386,7 +386,7 @@ export default function Want3DGallery() {
                 <h2 className="mt-2 text-xl font-semibold sm:text-2xl">{featuredImage.title}</h2>
                 <p className="mt-2 text-sm text-white/60">{featuredImage.folderDescription}</p>
               </div>
-              <div className="flex items-center gap-2 self-end sm:self-auto">
+              <div className="flex items-center gap-2 self-end sm:self-auto lg:hidden">
                 <button
                   type="button"
                   onClick={() => paginate(-1)}
@@ -404,7 +404,7 @@ export default function Want3DGallery() {
               </div>
             </div>
 
-            <div className="relative h-[44vh] min-h-[280px] overflow-hidden rounded-3xl border border-white/10 bg-black/30 sm:h-[52vh] sm:min-h-[330px]">
+            <div className="relative h-[44vh] min-h-[280px] overflow-hidden rounded-3xl border border-white/10 bg-black/30 sm:h-[52vh] sm:min-h-[330px] lg:h-[66vh] lg:min-h-[520px]">
               <AnimatePresence mode="wait" custom={direction} initial={false}>
                 <motion.figure
                   key={featuredImage.id}
@@ -440,6 +440,23 @@ export default function Want3DGallery() {
                   </figcaption>
                 </motion.figure>
               </AnimatePresence>
+
+              <button
+                type="button"
+                onClick={() => paginate(-1)}
+                className="absolute left-4 top-1/2 z-20 hidden h-14 w-14 -translate-y-1/2 items-center justify-center rounded-full border border-white/35 bg-black/30 text-3xl text-white/90 backdrop-blur-sm transition hover:bg-black/45 lg:flex"
+                aria-label="Imagen anterior"
+              >
+                {'<'}
+              </button>
+              <button
+                type="button"
+                onClick={() => paginate(1)}
+                className="absolute right-4 top-1/2 z-20 hidden h-14 w-14 -translate-y-1/2 items-center justify-center rounded-full border border-white/35 bg-black/30 text-3xl text-white/90 backdrop-blur-sm transition hover:bg-black/45 lg:flex"
+                aria-label="Imagen siguiente"
+              >
+                {'>'}
+              </button>
             </div>
 
             <div className="mt-4 flex gap-2 overflow-x-auto pb-1 sm:mt-5">
