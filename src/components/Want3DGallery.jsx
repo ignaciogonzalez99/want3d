@@ -404,7 +404,7 @@ export default function Want3DGallery() {
               </div>
             </div>
 
-            <div className="relative h-[44vh] min-h-[280px] overflow-hidden rounded-3xl border border-white/10 bg-black/30 sm:h-[52vh] sm:min-h-[330px] lg:h-[66vh] lg:min-h-[520px]">
+            <div className="relative h-[52vh] min-h-[340px] overflow-hidden rounded-3xl border border-white/10 bg-black/30 sm:h-[62vh] sm:min-h-[420px] lg:h-[74vh] lg:min-h-[620px]">
               <AnimatePresence mode="wait" custom={direction} initial={false}>
                 <motion.figure
                   key={featuredImage.id}
@@ -459,33 +459,6 @@ export default function Want3DGallery() {
               </button>
             </div>
 
-            <div className="mt-4 flex gap-2 overflow-x-auto pb-1 sm:mt-5">
-              {images.map((image, index) => {
-                const selected = index === safeIndex;
-                return (
-                  <button
-                    key={image.id}
-                    type="button"
-                    onClick={() => {
-                      setDirection(index > safeIndex ? 1 : -1);
-                      setActiveIndex(index);
-                    }}
-                    className={`group relative h-[4.5rem] w-[4.5rem] shrink-0 overflow-hidden rounded-xl border transition sm:h-20 sm:w-20 ${
-                      selected
-                        ? "border-cyan-200/80 ring-1 ring-cyan-100/70"
-                        : "border-white/10 hover:border-white/35"
-                    }`}
-                  >
-                    <img
-                      src={image.thumb}
-                      alt={image.title}
-                      className="h-full w-full object-cover transition duration-500 group-hover:scale-110"
-                      loading="lazy"
-                    />
-                  </button>
-                );
-              })}
-            </div>
           </section>
         ) : null}
 
